@@ -1,0 +1,92 @@
+header{
+    background-color: #4ea0ff;
+    background-image: url(file:///C:/Users/Antonio/Desktop/img-booleaner/img/pattern.png);
+    background-size: 35%;   
+    height: 7em;
+}
+#main-logo{
+   padding-top: 2.5rem;
+   position: 0.5rem; 
+   height: 50px;
+
+}
+h1{
+    font-size: 3.4rem;
+}
+.font-blue{
+    color: #36b0e6;
+}
+
+.font-small{
+ font-size: 0.75rem;   
+}
+.font-grey{ 
+color: #919191
+}
+
+
+}
+.width50{
+    width: 50%;
+}
+
+.bg-light-blue{
+    color: #b1e5f2;
+}
+h2{
+font-size: 1.1rem;
+}
+.box{
+    background-color: red;
+    height: 160px;
+    width: 200px;
+    padding-top: 25%;
+    padding: left 25%; ;
+    background-image: url(file:///C:/Users/Antonio/Desktop/img-booleaner/img/monitor.jpg);
+}
+.bg-blue{
+    background-color: #20a9e5;
+}
+.font--white{
+    background-color: white;
+}
+.font-white{
+    color: white;
+}
+
+h3 {
+    margin: 0px;
+    background-image: url(file:///C:/Users/Antonio/Desktop/img-booleaner/img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: grey;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260px;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+  }
+  h4 {
+    margin: 0px;
+    background-image: url(file:///C:/Users/Antonio/Desktop/img-booleaner/img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    background-color: grey;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260px;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+  }
+  .main-content{
+    border: solid 2px;
+    background: border-box;
+    background-color: powderblue;
+    padding-left: em ;
+    width: auto;
+    height: auto;
+    text-height: auto;
+    text-size-adjust: auto;
+  }
